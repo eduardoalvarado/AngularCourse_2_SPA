@@ -6,6 +6,15 @@ body {
   margin-top: 20px
 }
 
+.btn-space {
+  margin-top: 20px;
+}
+.img-resize {
+  margin-top: 20px;
+  width: 112px;
+  height: 112px;
+}
+
 /*Animaciones*/
 .animated {
   -webkit-animation-duration: 1s;
